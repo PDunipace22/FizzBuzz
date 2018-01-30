@@ -12,7 +12,7 @@ namespace FizzBuzz.Tests
     public class FizzBuzzerTests
     {
         [Test]
-        public void Get_Returns_A_Number()
+        public void ()
         {
             
         }
